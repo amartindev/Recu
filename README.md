@@ -61,6 +61,23 @@ Este proyecto es una solución completa para la gestión y visualización de ven
 
 ---
 
+## ✨ Aplicaciones en Vivo (Live Demo) ✨
+
+Puedes probar las aplicaciones frontend desplegadas directamente en los siguientes enlaces. **Estas aplicaciones se conectan al backend desplegado públicamente.**
+
+*   **Frontend React:** [https://recureact.netlify.app/](https://recureact.netlify.app/)
+*   **Frontend Vue:** [https://recuvue.netlify.app/](https://recuvue.netlify.app/)
+
+**Backend Utilizado por las Demos:**
+
+*   La API del backend está alojada en Render: **[https://backrecupython.onrender.com/](https://backrecupython.onrender.com/)**
+*   La base de datos asociada está alojada en Railway.
+
+*(Nota: Los servicios gratuitos como Render pueden poner las aplicaciones a "dormir" después de un período de inactividad. La primera solicitud después de esto puede tardar un poco más mientras el servicio se "despierta").*
+
+---
+
+
 ##   Cómo Correr el Proyecto
 
 ###   Requisitos Previos
@@ -69,6 +86,7 @@ Este proyecto es una solución completa para la gestión y visualización de ven
     * Python 3.10+
     * MySQL
     * Node.js y npm (para los frontends)
+
 
 ###   Opción 1: Correr Manualmente
 
